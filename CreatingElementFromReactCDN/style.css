@@ -1,0 +1,33 @@
+#heading {
+    color: red;
+}
+
+#parent {
+    background-color: yellow;
+}
+
+#child {
+    background-color: green;
+}
+
+#boxes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.box {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 300px;
+    padding: 10px 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+}
